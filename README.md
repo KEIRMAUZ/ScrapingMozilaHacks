@@ -6,6 +6,8 @@ Este proyecto es un scraper web desarrollado en Node.js que extrae información 
 
 ---
 
+![Imagen respecto al trabajo](Img/Cap.png)
+
 ## Instalación y Ejecución
 
 ### Requisitos previos
@@ -20,4 +22,3 @@ Este proyecto es un scraper web desarrollado en Node.js que extrae información 
 ```bash
 git clone https://github.com/tu-usuario/tu-repo.git
 
-![Imagen respecto al trabajo](Img/Cap.png)
